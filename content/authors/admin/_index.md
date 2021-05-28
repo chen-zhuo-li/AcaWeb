@@ -18,9 +18,9 @@ social:
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=jV2lYecAAAAJ&hl=en
-  - icon: linkedin
+  - icon: weixin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: assets/media/wechat_qr.jpg
 organizations:
   - name: École polytechnique fédérale de Lausanne (EPFL)
     url: https://www.epfl.ch/en/
