@@ -25,12 +25,12 @@ social:
     icon_pack: fab
     link: assets/media/wechat_qr.jpg
 organizations:
-  - name: École polytechnique fédérale de Lausanne (EPFL)
+  - name: École Polytechnique Fédérale de Lausanne (EPFL)
     url: https://www.epfl.ch/en/
 education:
   courses:
     - course: PhD in Solid Mechanics
-      institution: École polytechnique fédérale de Lausanne
+      institution: École Polytechnique Fédérale de Lausanne
       year: ""
     - course: Research Assistant
       institution: Beihang University
