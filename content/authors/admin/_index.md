@@ -2,7 +2,7 @@
 title: Chenzhuo LI
 role: PhD Student of Solid Mechanics
 avatar_filename: avatar.jpg
-bio: My research interests include fracture mechanics
+bio: "My research interests include fracture mechanics, soft materials, "
 interests:
   - Artificial Intelligence
   - Computational Linguistics
