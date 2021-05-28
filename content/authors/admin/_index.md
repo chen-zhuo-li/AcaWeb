@@ -27,9 +27,9 @@ organizations:
 education:
   courses:
     - course: PhD in Solid Mechanics
-      institution: EPFL
+      institution: École polytechnique fédérale de Lausanne
       year: ""
-    - course: Research assistant
+    - course: Research Assistant
       institution: Beihang University
       year: 2021
     - course: BSc in Flight Propulsion
