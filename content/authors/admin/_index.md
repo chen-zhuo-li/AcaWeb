@@ -12,6 +12,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:chenzhuo.li@epfl.ch
+    label: chenzhuo.li@epfl.ch
+    display:
+      header: false
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/_ChenzhuoLi_
