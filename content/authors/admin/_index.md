@@ -1,7 +1,7 @@
 ---
 title: Chenzhuo LI
 role: PhD Student of Solid Mechanics
-avatar_filename: wechat-image_20210528150128.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include fracture mechanics
 interests:
   - Artificial Intelligence
