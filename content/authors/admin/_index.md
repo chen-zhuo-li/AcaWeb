@@ -28,13 +28,13 @@ education:
   courses:
     - course: PhD in Solid Mechanics
       institution: EPFL
-      year: 2021
+      year: ""
     - course: Research assistant
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      institution: Beihang University
+      year: 2021
+    - course: BSc in Flight Propulsion
+      institution: Beihang University
+      year: 2014
 email: ""
 superuser: true
 highlight_name: false
