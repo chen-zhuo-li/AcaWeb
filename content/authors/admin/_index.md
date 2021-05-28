@@ -2,7 +2,8 @@
 title: Chenzhuo LI
 role: PhD Student of Solid Mechanics
 avatar_filename: avatar.jpg
-bio: "My research interests include fracture mechanics, soft materials, "
+bio: My research interests include soft materials, fracture mechanics, and
+  experimental mechanics.
 interests:
   - Artificial Intelligence
   - Computational Linguistics
@@ -24,14 +25,14 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: École polytechnique fédérale de Lausanne (EPFL)
+    url: https://www.epfl.ch/en/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
+    - course: PhD in Solid Mechanics
+      institution: EPFL
+      year: 2021
+    - course: Research assistant
       institution: Massachusetts Institute of Technology
       year: 2009
     - course: BSc in Artificial Intelligence
@@ -41,9 +42,6 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
