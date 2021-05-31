@@ -36,9 +36,9 @@ education:
     - course: Research Assistant
       institution: Beihang University
       year: 2021
-    - course: BSc in Flight Propulsion
+    - course: BSc in Flight Vehicle Propulsion
       institution: Beihang University
-      year: 2014
+      year: 2018
 email: ""
 superuser: true
 highlight_name: false
