@@ -23,8 +23,7 @@ social:
     link: https://scholar.google.com/citations?user=jV2lYecAAAAJ&hl=en
   - icon: weixin
     icon_pack: fab
-    link: ' {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref
-      >}}'
+    link: "asset/media/wechat_qr.jpg"
 organizations:
   - name: École Polytechnique Fédérale de Lausanne (EPFL)
     url: https://www.epfl.ch/en/
