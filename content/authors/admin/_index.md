@@ -23,7 +23,7 @@ social:
     link: https://scholar.google.com/citations?user=jV2lYecAAAAJ&hl=en
   - icon: weixin
     icon_pack: fab
-    link: uploads/wechat.jpg
+    link: images/wechat.jpg
 organizations:
   - name: École Polytechnique Fédérale de Lausanne (EPFL)
     url: https://www.epfl.ch/en/
@@ -46,4 +46,4 @@ Chenzhuo Li (李陈卓) is a doctoral student at EPFL EMSI Lab. His research int
 
 distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "files/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
