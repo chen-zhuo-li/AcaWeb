@@ -137,8 +137,8 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: '1'
-  api_key: 'https://developers.google.com/maps/documentation/javascript/get-api-key'
+  provider: '2'
+  api_key: ''
   zoom: 15
 marketing:
   google_analytics: ''
