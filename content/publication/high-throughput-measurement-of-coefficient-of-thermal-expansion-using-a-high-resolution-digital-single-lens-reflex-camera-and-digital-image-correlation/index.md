@@ -8,6 +8,7 @@ authors:
   - Chenzhuo Li
   - Haojian Luo
   - Bing Pan
+doi: 10.1088/1361-6501/ab1c9c
 publication: "*Review of Scientific Instruments*"
 publication_short: "*Rev. Sci. Instrum.*"
 abstract: High-throughput measurement of thermal deformation and determination
