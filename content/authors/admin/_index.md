@@ -1,5 +1,5 @@
 ---
-title: Chenzhuo LI
+title: Chenzhuo Li
 role: PhD Student of Solid Mechanics
 avatar_filename: avatar.jpg
 bio: My research interests include soft materials, fracture mechanics, and
