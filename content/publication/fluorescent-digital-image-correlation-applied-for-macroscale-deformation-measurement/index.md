@@ -30,7 +30,7 @@ abstract: Fluorescent digital image correlation (DIC) has been implemented on
   improve its performance, enhance its functions, and expand its applications
   without introducing additional problems.
 draft: false
-featured: true
+featured: false
 tags:
   - Digital Image Correlation
   - Fluorescence Imaging
