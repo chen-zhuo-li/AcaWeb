@@ -2,7 +2,7 @@
 title: Heatwave distortion correction using an improved reference sample
   compensation method and multispectral digital image correlation
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Xiaoying Zhang
   - Chenzhuo Li
