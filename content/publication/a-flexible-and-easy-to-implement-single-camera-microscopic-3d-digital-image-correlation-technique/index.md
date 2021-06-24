@@ -8,8 +8,8 @@ authors:
   - Bo Dong
   - Bing Pan
 author_notes:
-  - '"Equal contribution"'
-  - '"Equal contribution"'
+  - Equal contribution
+  - Equal contribution
 doi: 10.1088/1361-6501/ab1c9c
 publication: "*Measurement Science and Technology*"
 publication_short: "*Meas. Sci. Technol.*"
