@@ -4,7 +4,7 @@ publication_types:
   - "0"
 authors:
   - Baofei Fu
-  - "**Chenzhuo Li**"
+  - '"**Chenzhuo Li**"'
   - Bo Dong
   - Pan Ou
 author_notes:
