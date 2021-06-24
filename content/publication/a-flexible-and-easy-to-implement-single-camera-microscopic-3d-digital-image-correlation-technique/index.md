@@ -10,7 +10,6 @@ authors:
 author_notes:
   - Equal contribution
   - Equal contribution
-date: 2020-11-17T15:45:32+08:00
 doi: 10.1088/1361-6501/ab1c9c
 publication: "*Measurement Science and Technology*"
 publication_short: "*Meas. Sci. Technol.*"
