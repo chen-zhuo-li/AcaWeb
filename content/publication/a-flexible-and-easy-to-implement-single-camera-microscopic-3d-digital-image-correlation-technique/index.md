@@ -37,7 +37,7 @@ abstract: We propose a novel, flexible and easy-to-implement single-camera
 draft: false
 featured: false
 tags:
-  - Digital Image Correltaion
+  - Digital Image Correlation
 projects:
   - Digital Image Correlation
 image:
