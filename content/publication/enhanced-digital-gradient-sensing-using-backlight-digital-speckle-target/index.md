@@ -1,7 +1,7 @@
 ---
 title: Enhanced digital gradient sensing using backlight digital speckle target
 publication_types:
-  - "0"
+  - "2"
 authors:
   - Baofei Fu
   - '"**Chenzhuo Li**"'
