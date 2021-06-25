@@ -47,5 +47,5 @@ image:
   filename: featured.jpg
   focal_point: RIGHT
   preview_only: false
-date: 2021-06-24T11:28:01.713Z
+date: 2020-07-28T11:28:01.713Z
 ---
