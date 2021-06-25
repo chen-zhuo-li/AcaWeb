@@ -137,9 +137,9 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: GoogleMaps
-  api_key: 'AIzaSyAhPB1xZ-FzyJYoi7LFIkaxlnWyrBr0-M4'
-  zoom: 15
+  provider: Mapnik
+#   api_key: 'AIzaSyAhPB1xZ-FzyJYoi7LFIkaxlnWyrBr0-M4'
+  zoom: 14
 marketing:
   google_analytics: ''
   google_tag_manager: ''
