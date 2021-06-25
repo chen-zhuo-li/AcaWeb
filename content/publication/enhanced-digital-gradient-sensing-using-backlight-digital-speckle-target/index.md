@@ -34,6 +34,16 @@ abstract: Digital gradient sensing (DGS) is a non-contact and full-field optical
   both t-DGS and r-DGS.
 draft: false
 featured: false
+tags:
+  - Digital Image Correlation
+  - Digital Gradient Sensing
+  - Backlight
+  - Digital Speckle Pattern
+  - Active Imaging
+categories:
+  - Digital Image Correlation
+projects:
+  - Digital Image Correlation
 image:
   filename: featured.jpg
   focal_point: Smart
