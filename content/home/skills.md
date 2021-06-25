@@ -16,30 +16,35 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
+<!-- - description: 90%
   icon: cubes
   icon_pack: fas
-  name: 2D/3D Modelling
+  name: 2D/3D Modelling -->
+  
 - description: 90%
   icon: dice-d20
   icon_pack: fas
   name: Finite Element Analysis
-- description: 80%
-  icon: keyboard
-  icon_pack: fas
-  name: Programming
+  
 - description: 100%
   icon: tools
   icon_pack: fas
   name: Experiment
+    
 - description: 80%
+  icon: keyboard
+  icon_pack: fas
+  name: Programming
+  
+<!-- - description: 80%
   icon: camera-retro
   icon_pack: fas
-  name: Photography
-- description: 60%
-  icon: languages
+  name: Photography -->
+  
+<!-- - description: 60%
+  icon: language
   icon_pack: fas
-  name: Multilingual
+  name: Multilingual -->
   
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
