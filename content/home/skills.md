@@ -20,18 +20,18 @@ feature:
 #  icon: cubes
 #  icon_pack: fas
 #  name: 2D/3D Modelling
+    
+- description: ''
+  icon: tools
+  icon_pack: fas
+  name: Experiment
   
 - description: ''
   icon: dice-d20
   icon_pack: fas
   name: Finite Element Analysis
-  
-- description: 100%
-  icon: tools
-  icon_pack: fas
-  name: Experiment
     
-- description: 80%
+- description: ''
   icon: keyboard
   icon_pack: fas
   name: Programming
