@@ -36,6 +36,7 @@ tags:
   - Digital image correlation
   - Image Processing
   - Coefficient of Thermal Expansion
+  - DSLR
 categories:
   - Digital image correlation
 projects:
