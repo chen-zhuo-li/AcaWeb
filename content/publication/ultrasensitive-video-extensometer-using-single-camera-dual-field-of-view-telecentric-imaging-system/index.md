@@ -10,7 +10,7 @@ authors:
 author_notes:
   - Equal contribution
   - Equal contribution
-doi: 10.1364/OL.44.004499
+doi: https://doi.org/10.1364/OL.44.004499
 publication: "*Optics Letters*"
 publication_short: "*Opt. Lett.*"
 abstract: Video extensometer assesses mechanical properties of materials by
