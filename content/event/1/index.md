@@ -10,6 +10,14 @@ event_url: https://ifosa.org/
 publishDate: 2021-06-25T13:23:51.173Z
 draft: false
 featured: false
+tags:
+  - Digital image correlation
+  - Fluorescence Imaging
+  - Speckle Image Optimization
+categories:
+  - Digital image correlation
+projects:
+  - Digital image correlation
 image:
   filename: featured
   focal_point: Smart
