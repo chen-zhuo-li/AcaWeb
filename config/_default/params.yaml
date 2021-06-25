@@ -29,7 +29,7 @@ address:
   country: Switzerland
   country_code: CH
 coordinates:
-  latitude: '46.519687838334516.567357922698999'
+  latitude: '46.519687838334516'
   longitude: '6.567357922698999'
 office_hours:
   - 'Weekdays 8:00 to 17:00'
