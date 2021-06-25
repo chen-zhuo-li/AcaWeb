@@ -38,6 +38,11 @@ draft: false
 featured: false
 tags:
   - Digital Image Correlation
+  - Microscale Measurement
+  - Stereovision
+  - Color Splitting
+categories:
+  - Digital Image Correlation
 projects:
   - Digital Image Correlation
 image:
