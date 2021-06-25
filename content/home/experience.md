@@ -89,7 +89,7 @@ experience:
     description: |2-
     
       * Planned the project schedule and managed the research grant
-      * Developed Raspberry Pi programs and a IOS app
+      * Developed Raspberry Pi programs and an IOS app
 
 
 design:
