@@ -1,12 +1,11 @@
 ---
 widget: featured
-active: false
 widget_id: Featured Publications
 headless: true
 weight: 80
 title: Featured Publications
 subtitle: ""
-active: true
+active: false
 content:
   page_type: publication
   count: 0
