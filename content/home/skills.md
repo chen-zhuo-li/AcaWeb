@@ -20,15 +20,27 @@ feature:
   icon: cubes
   icon_pack: fas
   name: 2D/3D Modelling
-- description: 100%
-  icon: chart-line
+- description: 90%
+  icon: dice-d20
   icon_pack: fas
-  name: Statistics
-- description: 10%
+  name: Finite Element Analysis
+- description: 80%
+  icon: keyboard
+  icon_pack: fas
+  name: Programming
+- description: 100%
+  icon: tools
+  icon_pack: fas
+  name: Experiment
+- description: 80%
   icon: camera-retro
   icon_pack: fas
   name: Photography
-
+- description: 60%
+  icon: languages
+  icon_pack: fas
+  name: Multilingual
+  
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
