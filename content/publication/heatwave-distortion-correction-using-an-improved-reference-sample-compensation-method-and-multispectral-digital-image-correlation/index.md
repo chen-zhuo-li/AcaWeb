@@ -40,7 +40,7 @@ tags:
   - Digital image correlation
   - Fluorescence Imaging
   - Heatwave Correction
-  - Color Imaging
+  - Color Splitting
 categories:
   - Digital image correlation
 projects:
