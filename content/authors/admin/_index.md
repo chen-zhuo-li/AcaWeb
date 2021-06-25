@@ -31,7 +31,7 @@ education:
   courses:
     - course: PhD in Solid Mechanics
       institution: École Polytechnique Fédérale de Lausanne
-      year: ""
+      year: present
     - course: Research Assistant
       institution: Beihang University
       year: 2021
