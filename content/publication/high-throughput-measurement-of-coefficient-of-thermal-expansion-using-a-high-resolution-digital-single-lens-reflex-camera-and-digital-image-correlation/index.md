@@ -32,6 +32,14 @@ abstract: High-throughput measurement of thermal deformation and determination
   CTE measurement and other high-throughput strain measurement scenarios.
 draft: false
 featured: false
+tags:
+  - Digital image correlation
+  - Image Processing
+  - Coefficient of Thermal Expansion
+categories:
+  - Digital image correlation
+projects:
+  - Digital image correlation
 image:
   filename: featured.jpg
   focal_point: Smart
