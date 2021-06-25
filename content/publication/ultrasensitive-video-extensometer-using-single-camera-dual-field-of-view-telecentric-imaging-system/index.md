@@ -27,6 +27,15 @@ abstract: Video extensometer assesses mechanical properties of materials by
   ultrasensitive video extensometer, confirming its accuracy and practicality.
 draft: false
 featured: false
+tags:
+  - Digital image correlation
+  - Video Extensometer
+  - Color Splitting
+  - Ultrasensitive Measurement
+categories:
+  - Digital image correlation
+projects:
+  - Digital image correlation
 image:
   filename: featured.jpg
   focal_point: Smart
