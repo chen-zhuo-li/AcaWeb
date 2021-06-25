@@ -25,7 +25,7 @@ experience:
   - title: CEO
     company: GenCoin
     company_url: ''
-    company_logo: org-gc
+    company_logo: BUAA
     location: California
     date_start: '2021-01-01'
     date_end: ''
@@ -36,21 +36,7 @@ experience:
         * Modelling
         * Deploying
 
- - title: Graduate Researcher
-  company: Institute of Solid Mechanics, Beihang University
-  company_url: ""
-  company_logo: org-gc
-  location: Beijing
-  date_start: 2018-10-01
-  date_end: 2021-01-15
-  description: 
-  * Investigating macroscale fluorescent DIC and its related applications
-  * Conducting high-throught characterization of thermal/mechanical properites of bulk materials
-  * Improved the DGS speckle target using backlight technique
-  * Developed an ultrasensitive video extensometer
-  * Developed a microscopic single-camera 3D-DIC system
-  * Assessed the drift error and distortion between slices obtained from LSCM
-  * Performed SEM-DIC and analyzed the factors affecting the SEM image quality
+
 
 
 
