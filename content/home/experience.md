@@ -43,7 +43,7 @@ experience:
   location: Beijing
   date_start: 2018-10-01
   date_end: 2021-01-15
-  description = """
+  description: 
   * Investigating macroscale fluorescent DIC and its related applications
   * Conducting high-throught characterization of thermal/mechanical properites of bulk materials
   * Improved the DGS speckle target using backlight technique
@@ -51,7 +51,7 @@ experience:
   * Developed a microscopic single-camera 3D-DIC system
   * Assessed the drift error and distortion between slices obtained from LSCM
   * Performed SEM-DIC and analyzed the factors affecting the SEM image quality
-  """
+
 
 
 
