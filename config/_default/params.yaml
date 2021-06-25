@@ -137,7 +137,7 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: '1'
+  provider: 1
   api_key: 'AIzaSyAhPB1xZ-FzyJYoi7LFIkaxlnWyrBr0-M4'
   zoom: 15
 marketing:
