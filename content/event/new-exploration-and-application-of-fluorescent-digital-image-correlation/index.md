@@ -10,6 +10,14 @@ event_url: https://idics-2020.org/
 publishDate: 2021-06-25T13:04:02.312Z
 draft: false
 featured: false
+tags:
+  - Digital image correlation
+  - Fluorescence Imaging
+  - Speckle Image Optimization
+categories:
+  - Digital image correlation
+projects:
+  - Digital image correlation
 image:
   filename: featured
   focal_point: Smart
