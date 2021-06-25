@@ -24,8 +24,8 @@ email: chenzhuo.li@epfl.ch
 phone: +41 078 222 48 49
 address:
   street: MED 2 2917
-  city: CH-1015 Lausanne
-#  postcode: 1015
+  city: Station 9
+  postcode: CH-1015 Lausanne
   country: Switzerland
   country_code: CH
 coordinates:
@@ -137,7 +137,7 @@ search:
     index_name: ''
     show_logo: false
 map:
-  provider: 'Google Maps'
+  provider: GoogleMaps
   api_key: 'AIzaSyAhPB1xZ-FzyJYoi7LFIkaxlnWyrBr0-M4'
   zoom: 15
 marketing:
