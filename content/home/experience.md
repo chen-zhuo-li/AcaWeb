@@ -22,24 +22,24 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
-    company_url: ''
-    company_logo: BUAA
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+#  - title: CEO
+#    company: GenCoin
+#    company_url: ''
+#    company_logo: BUAA
+#    location: California
+#    date_start: '2021-01-01'
+#    date_end: ''
+#    description: |2-
+#        Responsibilities include:
+#        
+#        * Analysing
+#        * Modelling
+#        * Deploying
 
-  - title: Graduate Researcher
+  - title: Research Assistant
     company: Institute of Solid Mechanics, Beihang University
     company_url: ''
-    company_logo: org-gc
+    company_logo: BUAA
     location: Beijing
     date_start: '2018-10-01'
     date_end: '2021-01-15'
@@ -53,7 +53,17 @@ experience:
         * Assessed the drift error and distortion between slices obtained from LSCM
         * Performed SEM-DIC and analyzed the factors affecting the SEM image quality
 
+  - title: Experiment Assistant
+    company: Center of Space Exploration (Chongqing University), Ministry of Education
+    company_url: ''
+    location: Beijing
+    date_start: '2018-06-30'
+    date_end: '2018-09-01'
+    description: |2-
 
+      * Assisted the experiment of the Chang'e-4 Lunar Biosphere Mini-Ecosystem
+      * Collected experimental data and monitored the health of the mini-ecosystem
+      * Performed analysis and troubleshooting on the acquired data
 
 
 
