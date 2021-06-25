@@ -10,7 +10,7 @@ authors:
 author_notes:
   - Equal contribution
   - Equal contribution
-doi: 10.1088/1361-6501/ab1c9c
+doi: https://doi.org/10.1088/1361-6501/ab1c9c
 publication: "*Measurement Science and Technology*"
 publication_short: "*Meas. Sci. Technol.*"
 abstract: We propose a novel, flexible and easy-to-implement single-camera
