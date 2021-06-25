@@ -38,15 +38,15 @@ experience:
 
   - title: Research Assistant
     company: Institute of Solid Mechanics, Beihang University
-    company_url: ''
+    company_url: 'https://ev.buaa.edu.cn/'
     company_logo: BUAA
     location: Beijing
     date_start: '2018-10-01'
     date_end: '2021-01-15'
     description: |2-
     
-        * Investigating macroscale fluorescent DIC and its related applications
-        * Conducting high-throught characterization of thermal/mechanical properites of bulk materials
+        * Investigated macroscale fluorescent DIC and its related applications
+        * Conducted high-throught characterization of thermal/mechanical properites of bulk materials
         * Improved the DGS speckle target using backlight technique
         * Developed an ultrasensitive video extensometer
         * Developed a microscopic single-camera 3D-DIC system
@@ -55,7 +55,7 @@ experience:
 
   - title: Experiment Assistant
     company: Center of Space Exploration (Chongqing University), Ministry of Education
-    company_url: ''
+    company_url: 'http://www.cose.edu.cn/'
     company_logo: CQU
     location: Beijing
     date_start: '2018-06-30'
@@ -66,18 +66,31 @@ experience:
       * Collected experimental data and monitored the health of the mini-ecosystem
       * Performed analysis and troubleshooting on the acquired data
 
+  - title: Undergraduate Researcher
+    company: Institute of Solid Mechanics, Beihang University
+    company_url: 'https://ev.buaa.edu.cn/'
+    company_logo: BUAA
+    location: Beijing
+    date_start: '2017-09-01'
+    date_end: '2018-06-30'
+    description: |2-
+
+      * Generated 3D model of closed-cell porous materials with spherical or polyhedral pores
+      * Performed FEA using ABAQUS and investigated the effective bulk modulus of porous materials with porosity from 0 to 99%
 
 
+  - title: Team Leader & APP developer
+    company: Student Research Training Program, Beihang University
+    company_url: 'https://ev.buaa.edu.cn/'
+    company_logo: BUAA
+    location: Beijing
+    date_start: '2015-05-01'
+    date_end: '2016-10-31'
+    description: |2-
+    
+      * Planned the project schedule and managed the research grant
+      * Developed Raspberry Pi programs and a IOS app
 
-
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '2'
