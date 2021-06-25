@@ -17,9 +17,9 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 90%
-  icon: r-project
-  icon_pack: fab
-  name: R
+  icon: cubes
+  icon_pack: fas
+  name: 2D/3D Modelling
 - description: 100%
   icon: chart-line
   icon_pack: fas
