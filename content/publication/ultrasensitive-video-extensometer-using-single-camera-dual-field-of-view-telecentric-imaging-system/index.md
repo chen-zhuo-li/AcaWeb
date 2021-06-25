@@ -31,6 +31,7 @@ tags:
   - Digital image correlation
   - Video Extensometer
   - Color Splitting
+  - Telecentric Imaging
   - Ultrasensitive Measurement
 categories:
   - Digital image correlation
