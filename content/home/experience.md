@@ -66,7 +66,7 @@ experience:
       * Collected experimental data and monitored the health of the mini-ecosystem
       * Performed analysis and troubleshooting on the acquired data
 
-  - title: Undergraduate Researcher
+  - title: Undergraduate Research Assistant
     company: Institute of Solid Mechanics, Beihang University
     company_url: 'https://ev.buaa.edu.cn/'
     company_logo: BUAA
