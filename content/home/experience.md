@@ -56,6 +56,7 @@ experience:
   - title: Experiment Assistant
     company: Center of Space Exploration (Chongqing University), Ministry of Education
     company_url: ''
+    company_logo: CQU
     location: Beijing
     date_start: '2018-06-30'
     date_end: '2018-09-01'
