@@ -10,7 +10,7 @@ authors:
 author_notes:
   - Equal contribution
   - Equal contribution
-doi: 10.3390/s20226557
+doi: https://doi.org/10.3390/s20226557
 publication: "*Sensors*"
 publication_short: "*Sensors*"
 abstract: Digital gradient sensing (DGS) is a non-contact and full-field optical
