@@ -139,7 +139,7 @@ search:
 map:
   provider: Mapnik
 #   api_key: 'AIzaSyAhPB1xZ-FzyJYoi7LFIkaxlnWyrBr0-M4'
-  zoom: 18
+  zoom: 17
 marketing:
   google_analytics: ''
   google_tag_manager: ''
