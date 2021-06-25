@@ -10,7 +10,7 @@ authors:
 author_notes:
   - Equal contribution
   - Equal contribution
-doi: 10.1063/5.0016384
+doi: https://doi.org/10.1063/5.0016384
 publication: "*Applied Physics Letters*"
 publication_short: "*Appl. Phys. Lett.*"
 abstract: Fluorescent digital image correlation (DIC) has been implemented on
@@ -37,6 +37,7 @@ tags:
   - Fluorescence Imaging
   - Active Imaging
   - Speckle Image Optimization
+  - Stereovision
   - Multi-surface Measurement
 categories:
   - Digital Image Correlation
