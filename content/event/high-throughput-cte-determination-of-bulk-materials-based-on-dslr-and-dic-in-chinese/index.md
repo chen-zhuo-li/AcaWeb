@@ -13,6 +13,14 @@ event_url: http://www.bstam.org/index.do
 publishDate: 2021-06-25T12:58:15.097Z
 draft: false
 featured: false
+tags:
+  - Digital image correlation
+  - Image Processing
+  - Coefficient of Thermal Expansion
+categories:
+  - Digital image correlation
+projects:
+  - Digital image correlation
 image:
   filename: featured
   focal_point: Smart
