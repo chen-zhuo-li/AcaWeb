@@ -21,7 +21,7 @@ feature:
 #  icon_pack: fas
 #  name: 2D/3D Modelling
   
-- description: 90%
+- description: ''
   icon: dice-d20
   icon_pack: fas
   name: Finite Element Analysis
