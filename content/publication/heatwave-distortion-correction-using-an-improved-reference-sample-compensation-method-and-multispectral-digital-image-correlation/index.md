@@ -36,6 +36,15 @@ abstract: Heatwave distortions, caused by unevenly distributed temperature and
   revealing heatwave-hidden deformation.
 draft: false
 featured: false
+tags:
+  - Digital image correlation
+  - Fluorescence Imaging
+  - Heatwave Correction
+  - Color Imaging
+categories:
+  - Digital image correlation
+projects:
+  - Digital image correlation
 image:
   filename: featured.png
   focal_point: Smart
