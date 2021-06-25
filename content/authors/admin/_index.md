@@ -15,12 +15,15 @@ social:
     label: chenzhuo.li@epfl.ch
     display:
       header: false
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/_ChenzhuoLi_
+  - icon: researchgate
+    icon_pack: ai
+    link: https://www.researchgate.net/profile/Chenzhuo-Li-3
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=jV2lYecAAAAJ&hl=en
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/_ChenzhuoLi_
   - icon: weixin
     icon_pack: fab
     link: images/wechat.jpg
