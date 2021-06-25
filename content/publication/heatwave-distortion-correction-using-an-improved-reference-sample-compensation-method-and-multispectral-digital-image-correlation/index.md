@@ -11,7 +11,7 @@ authors:
 author_notes:
   - Equal Contribution
   - Equal Contribution
-doi: 10.1364/AO.420124
+doi: https://doi.org/10.1364/AO.420124
 publication: "*Applied Optics*"
 publication_short: "*Appl. Opt.*"
 abstract: Heatwave distortions, caused by unevenly distributed temperature and
