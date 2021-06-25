@@ -1,5 +1,5 @@
 ---
-title: New exploration and application of fluorescent digital image correlation
+title: "New exploration and application of fluorescent digital image correlation "
 abstract: " "
 location: Virtual
 date: 2020-10-22T12:20:02.294Z
