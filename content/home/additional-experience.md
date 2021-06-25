@@ -33,7 +33,7 @@ experience:
   - title: Exchange Program (Fully Funded by CSC)
     company: Polytechnic University of Milan
     company_url: 'https://www.polimi.it/en/'
-    company_logo: PWR
+    company_logo: POLIMI
     location: Milan, Italy
     date_start: '2017-09-01'
     date_end: '2018-02-14'
