@@ -33,6 +33,16 @@ abstract: An advanced two-dimensional digital image correlation (2D-DIC) using
   applied in future research.
 draft: false
 featured: false
+tags:
+  - Digital image correlation
+  - Fluorescence Imaging
+  - Telecentric Imaging
+  - Coaxial Illumination
+  - Space-constrained Measurement
+categories:
+  - Digital image correlation
+projects:
+  - Digital image correlation
 image:
   filename: featured.png
   focal_point: Smart
