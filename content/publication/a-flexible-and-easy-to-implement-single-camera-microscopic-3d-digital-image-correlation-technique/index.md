@@ -12,7 +12,7 @@ author_notes:
   - Equal contribution
 doi: https://doi.org/10.1088/1361-6501/ab1c9c
 publication: "*Measurement Science and Technology*"
-publication_short: "*Meas. Sci. Technol.*"
+publication_short: "*Meas. Sci. Technol.* 30(8): 085002"
 abstract: We propose a novel, flexible and easy-to-implement single-camera
   microscopic three-dimensional digital image correlation (3D-DIC) technique for
   accurate full-field shape, motion and deformation measurements at the
