@@ -14,7 +14,7 @@ tags:
 categories:
   - Life
 image:
-  filename: 1-2-.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
