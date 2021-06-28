@@ -12,7 +12,7 @@ author_notes:
   - Equal contribution
 doi: https://doi.org/10.1364/OL.44.004499
 publication: "*Optics Letters*"
-publication_short: "*Opt. Lett.*"
+publication_short: "*Opt. Lett.* 44(18): 4499-4502"
 abstract: Video extensometer assesses mechanical properties of materials by
   measuring their length changes under different loadings with combined use of
   video recording and image processing. In this Letter, an ultrasensitive video
