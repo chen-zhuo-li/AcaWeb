@@ -11,7 +11,7 @@ author_notes:
   - Equal contribution
   - Equal contribution
 doi: https://doi.org/10.3390/s20226557
-publication: "*Sensors*"
+publication: "*Sensors* 20(22): 6557"
 publication_short: "*Sensors*"
 abstract: Digital gradient sensing (DGS) is a non-contact and full-field optical
   measurement technique, which assesses mechanical behaviors of transparent
