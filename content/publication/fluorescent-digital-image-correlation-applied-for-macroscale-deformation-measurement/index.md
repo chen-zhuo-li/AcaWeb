@@ -12,7 +12,7 @@ author_notes:
   - Equal contribution
 doi: https://doi.org/10.1063/5.0016384
 publication: "*Applied Physics Letters*"
-publication_short: "*Appl. Phys. Lett.*"
+publication_short: "*Appl. Phys. Lett.* 117(4): 044101"
 abstract: Fluorescent digital image correlation (DIC) has been implemented on
   monocular and binocular fluorescence microscopes for shape and deformation
   measurements at the microscale and even the nanoscale by tracking fluorescent
