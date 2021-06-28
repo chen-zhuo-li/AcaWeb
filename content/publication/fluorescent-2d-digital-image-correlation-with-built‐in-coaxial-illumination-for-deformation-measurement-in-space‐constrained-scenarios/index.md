@@ -10,7 +10,7 @@ authors:
 author_notes: []
 doi: 10.1007/s11340-020-00688-0
 publication: "*Experimental Mechanics*"
-publication_short: "*Exp. Mech.*"
+publication_short: "*Exp. Mech.* 61:653-661"
 abstract: An advanced two-dimensional digital image correlation (2D-DIC) using
   active imaging and telecentric imaging has been proposed to overcome the
   problems of out-of-plane motion and ambient light variation. Here, the
