@@ -45,7 +45,7 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-Chenzhuo Li (李陈卓) is a doctoral student at EPFL EMSI Lab. His research interests include soft materials, fracture mechanics, and experimental mechanics.
+Chenzhuo Li (李陈卓) is a doctoral student at EPFL EMSI Lab, supervised by Prof. Kolinski. His current research interests include fracture mechanics, soft materials, and experimental mechanics.
 
 
 
