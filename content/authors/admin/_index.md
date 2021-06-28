@@ -2,12 +2,12 @@
 title: Chenzhuo Li
 role: PhD Student of Solid Mechanics
 avatar_filename: avatar.jpg
-bio: My research interests include soft materials, fracture mechanics, and
-  experimental mechanics.
+bio: ""
 interests:
   - Fracture Mechanics
   - Soft Materials
-  - Experimental Mechaincs
+  - Experimental Mechanics
+  - Microfabrication & Microcharacterization
 social:
   - icon: envelope
     icon_pack: fas
