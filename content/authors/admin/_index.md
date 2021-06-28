@@ -45,7 +45,7 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-Chenzhuo Li (李陈卓) is a doctoral student at EPFL EMSI Lab, supervised by Prof. Kolinski. His current research interests include fracture mechanics, soft materials, and experimental mechanics.
+Chenzhuo Li (李陈卓) is a doctoral student at École Polytechnique Fédérale de Lausanne, Switzerland. He received his Bachelor's degree in Flying Vehicle Propulsion Engineering in 2018 from Beihang University, Beijing. After 2 years of research in digital image correlation, he joined Prof. Kolinski's group (Engineering Mechanics of Soft Interfaces) at EPFL, studying fracture mechanics of hydrogels.
 
 
 
