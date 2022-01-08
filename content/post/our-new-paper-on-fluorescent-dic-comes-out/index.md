@@ -10,6 +10,8 @@ summary: A new speckle pattern fabrication method is proposed in this paper, by
   advantages and we highly recommend for general use.
 draft: false
 featured: false
+categories:
+  - Digital Image Correlation
 image:
   filename: 11340_2021_814_fig6_html.webp
   focal_point: Smart
