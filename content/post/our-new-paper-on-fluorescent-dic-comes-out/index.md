@@ -13,7 +13,7 @@ featured: false
 categories:
   - Digital Image Correlation
 image:
-  filename: 11340_2021_814_fig6_html.webp
+  filename: em2022.jpg
   focal_point: Smart
   preview_only: false
 ---
