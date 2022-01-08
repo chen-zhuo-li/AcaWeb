@@ -45,8 +45,6 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-Chenzhuo Li (李陈卓) is a doctoral student at École Polytechnique Fédérale de Lausanne (EPFL), Switzerland. He received his Bachelor's degree in Flying Vehicle Propulsion Engineering in 2018 from Beihang University, Beijing. After 2 years of research in digital image correlation with [Prof. Pan](http://www.ase.buaa.edu.cn/info/1079/9935.htm), he joined Prof. Kolinski's group (Engineering Mechanics of Soft Interfaces) at EPFL, studying fracture mechanics of hydrogels.
-
-
+Chenzhuo Li (李陈卓) is a doctoral student at École Polytechnique Fédérale de Lausanne (EPFL), Switzerland. He received his Bachelor's degree in Flying Vehicle Propulsion Engineering in 2018 from Beihang University, Beijing. After 2 years of research in digital image correlation with [Prof. Pan](http://www.ase.buaa.edu.cn/info/1079/9935.htm), he joined [Prof. Kolinski](https://people.epfl.ch/john.kolinski)'s group (Engineering Mechanics of Soft Interfaces) at EPFL, studying fracture mechanics of hydrogels.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "files/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
