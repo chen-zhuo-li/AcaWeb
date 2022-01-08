@@ -41,7 +41,7 @@ categories:
 projects:
   - Digital Image Correlation
 image:
-  filename: 11340_2021_814_fig6_html.webp
+  filename: em2022.jpg
   focal_point: Smart
   preview_only: false
 date: 2022-01-08T19:59:29.214Z
