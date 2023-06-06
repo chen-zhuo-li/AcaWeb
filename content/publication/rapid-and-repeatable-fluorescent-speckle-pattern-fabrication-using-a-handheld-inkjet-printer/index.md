@@ -40,7 +40,7 @@ categories:
 projects:
   - Digital Image Correlation
 image:
-  filename: em2022.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2022-01-08T19:59:29.214Z
