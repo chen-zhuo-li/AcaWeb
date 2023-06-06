@@ -14,13 +14,13 @@ publishDate: 2021-06-25T12:58:15.097Z
 draft: false
 featured: false
 tags:
-  - Digital image correlation
+  - Digital Image Correlation
   - Image Processing
   - Coefficient of Thermal Expansion
 categories:
-  - Digital image correlation
+  - Digital Image Correlation
 projects:
-  - Digital image correlation
+  - Digital Image Correlation
 image:
   filename: featured
   focal_point: Smart
