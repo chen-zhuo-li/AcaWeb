@@ -33,7 +33,7 @@ abstract: Fluorescent digital image correlation (DIC) has been implemented on
 draft: false
 featured: false
 tags:
-  - Digital image correlation
+  - Digital Image Correlation
   - Fluorescence Imaging
   - Active Imaging
   - Speckle Image Optimization
