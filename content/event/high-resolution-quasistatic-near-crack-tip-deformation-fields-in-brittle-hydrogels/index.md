@@ -31,12 +31,17 @@ event_url: https://www.esmc2022.org/
 publishDate: 2022-05-31T20:25:19.473Z
 draft: false
 featured: false
+authors:
+  - Chenzhuo LiTyler Benkley
+  - John Kolinski
 tags:
   - Fracture Mechanics
   - Near-crack-tip fields
   - Particle tracking
   - Process zone
   - Microscale Measurement
+categories:
+  - Fracture Mechanics
 image:
   filename: featured
   focal_point: Smart
