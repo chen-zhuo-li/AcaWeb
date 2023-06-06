@@ -41,6 +41,8 @@ tags:
   - Soft Materials
 categories:
   - Fracture Mechanics
+projects:
+  - Fracture Mechanics
 image:
   filename: j-integral.png
   focal_point: Smart
