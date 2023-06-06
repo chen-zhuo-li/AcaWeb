@@ -37,14 +37,14 @@ abstract: Heatwave distortions, caused by unevenly distributed temperature and
 draft: false
 featured: false
 tags:
-  - Digital image correlation
+  - Digital Image Correlation
   - Fluorescence Imaging
   - Heatwave Correction
   - Color Splitting
 categories:
-  - Digital image correlation
+  - Digital Image Correlation
 projects:
-  - Digital image correlation
+  - Digital Image Correlation
 image:
   filename: featured.png
   focal_point: Smart
