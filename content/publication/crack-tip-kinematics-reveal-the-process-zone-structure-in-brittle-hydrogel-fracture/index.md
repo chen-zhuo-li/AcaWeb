@@ -30,7 +30,7 @@ abstract: When brittle hydrogels fail, several mechanisms conspire to alter the
   specific loss mechanisms in this hydrogel material might generalize for
   brittle material failure.
 draft: false
-featured: true
+featured: false
 tags:
   - Fracture Mechanics
   - Fluorescence Imaging
