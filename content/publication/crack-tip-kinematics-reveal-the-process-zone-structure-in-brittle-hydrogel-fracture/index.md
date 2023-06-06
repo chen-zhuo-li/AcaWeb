@@ -31,7 +31,7 @@ abstract: When brittle hydrogels fail, several mechanisms conspire to alter the
   brittle material failure.
 draft: false
 featured: true
-categories:
+tags:
   - Fracture Mechanics
   - Fluorescence Imaging
   - Particle Tracking
@@ -39,8 +39,10 @@ categories:
   - Fracture Process Zone
   - Hydrogels
   - Soft Materials
+categories:
+  - Fracture Mechanics
 image:
-  filename: featured
+  filename: j-integral.png
   focal_point: Smart
   preview_only: false
 date: 2023-06-06T10:11:19.071Z
