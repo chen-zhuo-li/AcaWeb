@@ -4,14 +4,17 @@ title: Crack tip kinematics reveal the process zone structure in brittle
 publication_types:
   - "2"
 authors:
-  - Chenzhuo Li
+  - '"**Chenzhuo Li**"'
   - Xinyue Wei
   - Meng Wang
   - Mokhtar Adda-Bedia
   - John M. Kolinski
+author_notes:
+  - Equal contribution
+  - Equal contribution
 doi: https://doi.org/10.1016/j.jmps.2023.105330
-publication: Journal of the Mechanics and Physics of Solids
-publication_short: J. Mech. Phys. Solids
+publication: "*Journal of the Mechanics and Physics of Solids*"
+publication_short: "*J. Mech. Phys. Solids*"
 abstract: When brittle hydrogels fail, several mechanisms conspire to alter the
   state of stress near the tip of a crack, and it is challenging to identify
   which mechanism is dominant. In the fracture of brittle solids, a sufficient
