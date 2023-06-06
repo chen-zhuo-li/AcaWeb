@@ -2,7 +2,6 @@
 title: Rapid and Repeatable Fluorescent Speckle Pattern Fabrication Using a
   Handheld Inkjet Printer
 publication_types:
-  - "0"
   - "2"
 authors:
   - KaiyuZhu
@@ -11,7 +10,7 @@ authors:
 author_notes:
   - Equal contribution
   - Equal contribution
-doi: Equal contribution, Equal contribution
+doi: https://doi.org/10.1007/s11340-021-00814-6
 publication: "*Experimental Mechanics*"
 publication_short: "*Exp. Mech.*  62:627-637"
 abstract: >-
