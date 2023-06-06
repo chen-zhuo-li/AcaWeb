@@ -11,13 +11,13 @@ publishDate: 2021-06-25T13:23:51.173Z
 draft: false
 featured: false
 tags:
-  - Digital image correlation
+  - Digital Image Correlation
   - Fluorescence Imaging
   - Speckle Image Optimization
 categories:
-  - Digital image correlation
+  - Digital Image Correlation
 projects:
-  - Digital image correlation
+  - Digital Image Correlation
 image:
   filename: featured
   focal_point: Smart
