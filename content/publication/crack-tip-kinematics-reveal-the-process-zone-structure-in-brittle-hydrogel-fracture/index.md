@@ -4,7 +4,7 @@ title: Crack tip kinematics reveal the process zone structure in brittle
 publication_types:
   - "2"
 authors:
-  - '"**Chenzhuo Li**"'
+  - Chenzhuo Li
   - Xinyue Wei
   - Meng Wang
   - Mokhtar Adda-Bedia
@@ -47,5 +47,5 @@ image:
   filename: featured.png
   focal_point: Smart
   preview_only: false
-date: 2023-06-06T10:11:19.071Z
+date: 2023-06-06T10:54:55.388Z
 ---
