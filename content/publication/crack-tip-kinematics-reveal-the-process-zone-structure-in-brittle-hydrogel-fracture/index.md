@@ -44,7 +44,7 @@ categories:
 projects:
   - Fracture Mechanics
 image:
-  filename: j-integral.png
+  filename: featured.png
   focal_point: Smart
   preview_only: false
 date: 2023-06-06T10:11:19.071Z
