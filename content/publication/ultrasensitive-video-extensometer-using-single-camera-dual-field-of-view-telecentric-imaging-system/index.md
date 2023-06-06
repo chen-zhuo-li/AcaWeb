@@ -28,15 +28,15 @@ abstract: Video extensometer assesses mechanical properties of materials by
 draft: false
 featured: false
 tags:
-  - Digital image correlation
+  - Digital Image Correlation
   - Video Extensometer
   - Color Splitting
   - Telecentric Imaging
   - Ultrasensitive Measurement
 categories:
-  - Digital image correlation
+  - Digital Image Correlation
 projects:
-  - Digital image correlation
+  - Digital Image Correlation
 image:
   filename: featured.jpg
   focal_point: Smart
