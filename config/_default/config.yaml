@@ -9,7 +9,7 @@ copyright: '' # Footer text, e.g. '© {year} Me'
 
 backend:
   name: github
-  repo: AcaWeb
+  repo: chen-zhuo-li/AcaWeb
   accept_roles:
     - admin
     - editor
