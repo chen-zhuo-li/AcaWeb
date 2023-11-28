@@ -7,6 +7,14 @@ title: Academic # Website name
 baseurl: '' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
+backend:
+  name: github
+  repo: AcaWeb
+  accept_roles:
+    - admin
+    - editor
+  branch: main 
+
 ############################
 ## LANGUAGE
 ############################
