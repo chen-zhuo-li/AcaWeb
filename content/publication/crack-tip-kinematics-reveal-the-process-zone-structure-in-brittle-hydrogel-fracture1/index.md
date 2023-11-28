@@ -14,7 +14,8 @@ doi: https://doi.org/10.1007/s11340-023-00981-8
 publication: "*Experimental Mechanics*"
 publication_short: "*Exp. Mech.* 178:105330"
 abstract: >-
-  Background
+  **Background**
+
 
   Obtaining accurate displacement measurements for large material deformation and/or rotation presents a distinct challenge to digital image correlation (DIC) due to cumulative and decorrelation errors, particularly near material boundaries.
 
