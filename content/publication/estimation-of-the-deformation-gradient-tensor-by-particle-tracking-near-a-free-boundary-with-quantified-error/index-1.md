@@ -13,20 +13,30 @@ author_notes:
 doi: https://doi.org/10.1007/s11340-023-00981-8
 publication: "*Experimental Mechanics*"
 publication_short: "*Exp. Mech.* 63:1255-1270"
-abstract: When brittle hydrogels fail, several mechanisms conspire to alter the
-  state of stress near the tip of a crack, and it is challenging to identify
-  which mechanism is dominant. In the fracture of brittle solids, a sufficient
-  far-field stress results in the complete loss of structural strength as the
-  material `unzips’ at the tip of a crack, where stresses are concentrated.
-  Direct studies of the so-called small-scale yielding zone, where deformation
-  is large, are sparing. Using hydrogels as a model brittle solid, we probe the
-  small-scale yielding region with a combination of microscopy methods that
-  resolve the kinematics of the deformation. A zone over which most of the
-  energy is dissipated through the loss of cohesion is identified in the
-  immediate surroundings of the crack tip. With direct measurements, we
-  determine the scale and structure of process zone, and identify how the
-  specific loss mechanisms in this hydrogel material might generalize for
-  brittle material failure.
+abstract: >-
+  **Background**
+
+  Obtaining accurate displacement measurements for large material deformation and/or rotation presents a distinct challenge to digital image correlation (DIC) due to cumulative and decorrelation errors, particularly near material boundaries.
+
+
+  **Objective**
+
+  We aim to accurately measure the deformation gradient tensor near boundary discontinuities in situations of large deformation and large deformation gradients.
+
+
+  **Methods**
+
+  To achieve this goal, the locations of randomly distributed particles are tracked using an open-source particle-tracking software, Trackpy. A least-squares estimate of the deformation gradient tensor field uses nearest-neighbor material vectors and a first-order Finite Difference (FD) approximation, circumventing common errors in other methods. The error caused by FD approximation and that incurred by measurement are derived and tested with exhaustive numerical simulations. Furthermore, a uniaxial tensile test and mode-I fracture experiment are conducted with particle-embedded hydrogels to validate the method.
+
+
+  **Results**
+
+  Numerical results corroborate a theoretical expression of measurement error. They show that the FD error increases while the measurement error decreases for a growing estimating radius. Moreover, measurement error is linearly correlated to displacement noise. A benchmark uniaxial tensile test validates the accuracy of the proposed estimator, and the near-crack-tip measurements in a tensile fracture experiment demonstrate the estimator’s capabilities near a free surface, when a material undergoes large deformation and rotation. The results of the displacement and strain data are benchmarked against kinematic data obtained using an open-source DIC software, Ncorr. Computation time for both methods is compared.
+
+
+  **Conclusions**
+
+  A deformation gradient tensor estimator is developed based on a particle tracking technique and a least squares routine. Theoretical error bounds on the estimator are verified by numerical simulations, and the method’s capability is confirmed by physical experiments in evaluating large deformation and rotation near a free boundary. The proposed estimator is expected to open a door towards future material tests and experimental mechanics studies, especially in large deformation and large rotation scenarios.
 draft: false
 featured: false
 tags:
