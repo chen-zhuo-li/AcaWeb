@@ -14,7 +14,7 @@ author_notes:
   - Equal contribution
 doi: https://doi.org/10.1016/j.jmps.2023.105330
 publication: "*Journal of the Mechanics and Physics of Solids*"
-publication_short: "*J. Mech. Phys. Solids*"
+publication_short: "*J. Mech. Phys. Solids* 178:105330"
 abstract: When brittle hydrogels fail, several mechanisms conspire to alter the
   state of stress near the tip of a crack, and it is challenging to identify
   which mechanism is dominant. In the fracture of brittle solids, a sufficient
