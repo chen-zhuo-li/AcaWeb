@@ -13,7 +13,7 @@ backend:
   accept_roles:
     - admin
     - editor
-  branch: main 
+  branch: master 
 
 ############################
 ## LANGUAGE
