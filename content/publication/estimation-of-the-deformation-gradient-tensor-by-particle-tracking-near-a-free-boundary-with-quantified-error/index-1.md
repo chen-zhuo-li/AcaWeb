@@ -52,7 +52,7 @@ categories:
 projects:
   - Fracture Mechanics
 image:
-  filename: featured.png
+  filename: strain-fields.webp
   focal_point: Smart
   preview_only: false
 date: 2023-11-28T13:42:17.056Z
