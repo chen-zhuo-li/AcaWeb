@@ -43,6 +43,7 @@ tags:
   - Fracture Mechanics
   - Fluorescence Imaging
   - Particle Tracking
+  - Digital Image Correlation
   - Near-crack-tip Fields
   - Fracture Process Zone
   - Hydrogels
@@ -52,7 +53,7 @@ categories:
 projects:
   - Fracture Mechanics
 image:
-  filename: featured.png
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 date: 2023-11-28T15:54:32.580Z
