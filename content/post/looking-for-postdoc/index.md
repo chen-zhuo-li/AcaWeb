@@ -3,7 +3,7 @@ title: Looking for postdoc!
 subtitle: Time flies!
 date: 2024-11-20T21:26:04.233Z
 draft: false
-featured: false
+featured: true
 image:
   filename: postdoc.webp
   focal_point: Smart
