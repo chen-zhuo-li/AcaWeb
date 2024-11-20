@@ -5,7 +5,7 @@ date: 2024-11-20T21:26:04.233Z
 draft: false
 featured: true
 image:
-  filename: postdoc.jpg
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
