@@ -7,9 +7,7 @@ authors:
   - Chenzhuo Li
   - John M. Kolinski
   - Esther Amstad
-author_notes:
-  - Equal contribution
-  - Equal contribution
+author_notes: []
 doi: https://doi.org/10.1002/advs.202412566
 publication: "*Advanced Science*"
 publication_short: "*Adv. Sci.* 12:2412566"
